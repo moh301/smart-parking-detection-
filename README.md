@@ -1,3 +1,6 @@
+![Demo](carParkImg.png)
+
+
 Smart Parking Detection System
 
 Overview
